@@ -1,0 +1,19 @@
+p.oddNums{
+    background-color: #f08080;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#secondNum{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.third{
+    font-size: 24px;
+}
+
+#fourthNum{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
